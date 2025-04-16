@@ -1,0 +1,309 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+/* font-family: "Fira Sans", sans-serif; */
+#section{
+    background: #f5f5f5;  
+}
+.bd-2{
+    display: flex;
+    justify-content: space-between;
+    padding: 54px 67px 54px -1px;
+}
+.bd-h{
+    padding-left: 75px;
+    color: rgb(14, 14, 14);
+font-family: Fira Sans;
+font-size: 22px;
+font-weight: 700;
+line-height: 26px;
+letter-spacing: 0%;
+}
+.bd{
+    box-sizing: border-box;
+border: 1px solid rgb(0, 106, 80);
+border-radius: 6px;
+gap: 48;
+padding: 10px 20px 10px 20px;
+}
+.bd-btn{
+    color: rgb(0, 106, 80);
+font-family: Fira Sans;
+font-size: 12px;
+font-weight: 600;
+line-height: 15px;
+letter-spacing: 0%;
+}
+.button{
+    margin-top: 12px;
+    margin-right: 75px;
+}
+.button :hover{
+    background-color: rgb(198, 228, 214);
+    cursor: pointer;
+}
+.Bangladesh-2{
+    display: flex;
+    justify-content: space-between;
+    border-radius: 18px;
+background: rgb(198, 228, 214);
+padding: 54px 67px 54px 67px;
+margin: 25px 73px;
+margin-bottom: 63px;
+}
+.BD-para{
+    color: rgba(14, 14, 14, 0.5);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 500;
+line-height: 20px;
+letter-spacing: 0%;
+}
+.BD-head{
+    color: rgb(14, 14, 14);
+font-family: Fira Sans;
+font-size: 38px;
+font-weight: 700;
+line-height: 44px;
+letter-spacing: 0%;
+display: flex;
+margin-bottom: 24px ;
+margin-top: 12px;
+}
+.btn-BD{
+font-family: Fira Sans;
+font-size: 12px;
+font-weight: 600;
+line-height: 15px;
+letter-spacing: 0%;
+border-radius: 6px;
+background: rgb(0, 106, 80);
+border: none;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+gap: 48;
+padding: 12px 23px 12px 23px;
+}
+a{
+    text-decoration: none;
+}
+.btn-bd :hover{
+    background-color: green;
+    cursor: pointer;
+}
+.vision-head{
+    color: rgb(14, 14, 14);
+font-family: Fira Sans;
+font-size: 27px;
+font-weight: 700;
+line-height: 33px;
+letter-spacing: 0%;
+}
+.vision-para{
+    color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 12px;
+font-weight: 400;
+line-height: 17px;
+letter-spacing: 0%;
+}
+.card{
+    display: flex;
+    justify-content: space-between;
+}
+.card-head{
+    color: rgba(14, 14, 14, 0.8);
+font-family: Fira Sans;
+font-size: 14px;
+font-weight: 700;
+line-height: 16.5px;
+letter-spacing: 0%;
+}
+.card-para{
+    color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 11px;
+font-weight: 400;
+line-height: 16px;
+letter-spacing: 0%;
+}
+.card-btn{
+    color: rgb(255, 255, 255);
+font-family: Fira Sans;
+font-size: 11px;
+font-weight: 600;
+line-height: 13px;
+letter-spacing: 0%;
+}
+.card-btn-1{
+    background-color: rgb(84, 144, 245);
+    border-radius: 6px;
+    border: none;
+    width: 82px;
+height: 28px;
+}
+.card-btn-2{
+    background-color: rgb(9, 161, 92);
+    border-radius: 6px;
+    border: none;
+    width: 82px;
+height: 28px;
+}
+.card-btn-3{
+    background-color: rgb(255, 194, 57);
+    border-radius: 6px;
+    border: none;
+    width: 82px;
+height: 28px;
+}
+.card-container-1{
+    box-sizing: border-box;
+border-radius: 11px;
+background: rgba(84, 144, 245, 0.2);
+gap: 24;
+padding: 22px;
+}
+.card-container-2{
+    box-sizing: border-box;
+border-radius: 11px;
+background: rgb(198, 228, 214);
+gap: 24;
+padding: 22px;
+}
+.card-container-3{
+    box-sizing: border-box;
+border-radius: 11px;
+background: rgb(247, 235, 207);
+gap: 24;
+padding: 22px;
+}
+.vision-of-future{
+    padding: 54px 67px 54px 67px;
+margin: -80px 0px;
+}
+.comma{
+gap: 24;
+padding: 33px 17px 33px 17px;
+box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 11px;
+background: rgb(255, 255, 255);
+margin-top: 32px;
+}
+.comma-para{
+    color: rgba(14, 14, 14, 0.8);
+font-family: Fira Sans;
+font-size: 11px;
+font-weight: 400;
+line-height: 16px;
+letter-spacing: 0%;
+}
+.comma-head{
+    color: rgba(14, 14, 14, 0.8);
+font-family: Fira Sans;
+font-size: 14px;
+font-weight: 600;
+line-height: 17px;
+letter-spacing: 0%;
+margin-top: 0px;
+margin-bottom: -11px;
+}
+.c-a{
+    color: rgba(14, 14, 14, 0.6);
+font-family: Fira Sans;
+font-size: 12px;
+font-weight: 400;
+line-height: 16.5px;
+letter-spacing: 0%;
+}
+.comma{
+    background-image:url("./quote-bg.png") ;
+    background-size: 47px;
+    background-repeat: no-repeat;
+    background-position: 15px 24px;
+} 
+.button-2 :hover {
+background-color: rgb(74, 121, 4);
+cursor: pointer;
+}
+.button-1 :hover{
+    background-color: skyblue;
+    cursor: pointer;
+}
+.button-3 :hover{
+    background-color: lightsalmon;
+    cursor: pointer;
+}
+.Recent{
+    padding: 70px;
+}
+.Recent-head{
+    color: rgb(14, 14, 14);
+font-family: Fira Sans;
+font-size: 27px;
+font-weight: 700;
+line-height: 33px;
+letter-spacing: 0%;
+}
+.Recent-para{
+    color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 12px;
+font-weight: 400;
+line-height: 17px;
+letter-spacing: 0%;
+}
+.img img{
+    border-radius: 16px;
+}
+.News{
+    display: flex;
+    border-radius: 16px;
+    background: rgb(255, 255, 255);
+    margin: -62px;
+    padding: 38px;
+    margin-left: 70px;
+    margin-right: 70px;
+
+    margin-bottom: 90px;
+}
+.Launcnes{
+    margin-left: 32px;
+    margin-top: -20px;
+}
+.Read-more{
+    color: rgb(255, 255, 255);
+font-family: Fira Sans;
+font-size: 12px;
+font-weight: 600;
+line-height: 15px;
+letter-spacing: 0%;
+}
+.Read-more-btn{
+    border-radius: 6px;
+background: rgb(0, 106, 80);
+gap: 48;
+padding: 9px 18px 9px 18px;
+border: none;
+}
+.btn-T :hover{
+    cursor: pointer;
+    background-color: green;
+}
+.Launcnes h3{
+    color: rgba(14, 14, 14, 0.8);
+font-family: Fira Sans;
+font-size: 22px;
+font-weight: 700;
+line-height: 26px;
+letter-spacing: 0%;
+
+}
+.news-para{
+    color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 12px;
+font-weight: 400;
+line-height: 16px;
+letter-spacing: 0%;
+}
